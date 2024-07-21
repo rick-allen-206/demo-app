@@ -2,8 +2,7 @@
   "name": "demo-app",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT",
-  "dependencies": {
-    "expo-cli": "^6.3.10"
-  }
+  "repository": "git@github.com:rick-allen-206/demo-app.git",
+  "author": "lasky <rick.allen206@gmail.com>",
+  "license": "MIT"
 }
